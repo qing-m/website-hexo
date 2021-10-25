@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-10-11 14:45:25
+ * @LastEditTime: 2021-10-25 15:04:04
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \website-hexo\source\_posts\hello-world.md
+-->
 ---
 title: Hello World
 ---
@@ -8,7 +16,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new ""
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
