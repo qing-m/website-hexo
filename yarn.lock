@@ -1123,10 +1123,10 @@ buffer-from@^1.0.0:
   resolved "https://registry.nlark.com/buffer-from/download/buffer-from-1.1.2.tgz?cache=0&sync_timestamp=1627578450949&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fbuffer-from%2Fdownload%2Fbuffer-from-1.1.2.tgz#2b146a6fd72e80b4f55d255f35ed59a3a9a41bd5"
   integrity sha1-KxRqb9cugLT1XSVfNe1Zo6mkG9U=
 
-bulma-stylus@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.npm.taobao.org/bulma-stylus/download/bulma-stylus-0.8.0.tgz#137c182a1fdf9ac82f2e73bd3163aac454b105ae"
-  integrity sha1-E3wYKh/fmsgvLnO9MWOqxFSxBa4=
+bulma-stylus@0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/bulma-stylus/-/bulma-stylus-0.9.1.tgz#a3d52ed078eef35efe5229ff4d8fbddd65d17f32"
+  integrity sha512-00u1O/RTyA+9SYZVYljliZcTltgCeZ/Ln0dLzAhYEWkS8WaMf7KWIimbnozSwemhlM0ZiDsHIMvMjoUAayRZ9Q==
 
 bytes@3.0.0:
   version "3.0.0"
